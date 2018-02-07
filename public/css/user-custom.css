@@ -1,0 +1,119 @@
+.top-header{
+	background-color:#25bce9;
+}
+.main-header .container{
+	background-color: #f3f3f3;
+}
+section,.home-slidershow{
+	background-color: #fff;
+}
+section.home-promotion-product{
+	background-color: #fff;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.home-promotion-product .container{
+	padding: 55px 0 55px 0;
+}
+.home-promotion-product .pro-item{
+	padding: 0;
+}
+.home-promotion-product .product-info{
+	margin-bottom: 25px;
+	margin-top: 0;
+	padding: 15px 0;
+	background-color: #eee;
+	border-radius: 3px;
+}
+.breadcumb {
+    height: 55px;
+    line-height: 55px;
+    background: #e8e8e8;
+    border:0;
+}
+.header-page .container,.pr-main{
+	background: #fcfcfc;
+}
+section.parten-bg {
+	background: none;
+    background-repeat: repeat-y;
+    background-size: 100%;
+}
+ .parten-bg .container{
+ 	background: #fcfcfc;
+ }
+.cart-bottom button.btn-checkout{
+	margin-top: 5px;
+}
+.cart-button{
+	padding: 15px 0 30px 0;
+	border-top: 1px solid #aaa;
+}
+.cart-bottom > div{
+	margin-bottom: 0;
+}
+.product-quantity {
+	border: 1px solid #e4e4e4;
+    font-size: 12px;
+    padding: 12px 5px;
+    text-align: center;
+}
+.th-header{
+	background: #bdb7b7;
+}
+.table>thead>tr>th{
+	vertical-align: top;
+}
+.form-edit-info{
+	padding: 15px 0px 30px;
+}
+.user-order{
+	margin: 1px !important;
+}
+.main{
+	min-height: 60vh;
+	background: #fff;
+}
+.trust-section,.home-make-print-section,.home-capabititie-section,.home-testimonial-section,.footer-bottom-section{
+	background: #fff;
+}
+.trust-w{
+	padding: 60px 0px !important;
+    background: #eeeeee;
+}
+.block-trust{
+	padding: 20px;
+}
+.home-make-print{
+	background: #fbfbfb;
+	padding:55px 10px 10px 10px;
+}
+.home-testimonial{
+	padding-top: 30px;
+}
+.footer-main {
+    padding: 35px 25px;
+}    
+#back-to-top{
+	right: 10px;
+	top: -50px;
+}
+.choosed-design-box{
+	background:#f5f5f5;
+}
+.choosed-design-heading{
+	margin-top: 0;
+	border-bottom: 1px dotted rgb(188,188,188);
+	padding: 10px 0;
+}
+.choosed-design-img,.print-info-form{
+	padding: 20px;
+}
+.print-info-form input,.print-info-form select	{
+	height: 45px;
+}
+.press-price{
+	border-radius: 0;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
